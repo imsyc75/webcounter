@@ -1,0 +1,17 @@
+__pycache__/
+
+log.html
+output.xml
+report.html
+selenium-screenshot*.png
+
+
+venv/
+env/
+
+poetry.lock
+
+
+
+.DS_Store
+
